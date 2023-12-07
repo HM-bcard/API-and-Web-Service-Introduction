@@ -1,0 +1,2 @@
+SELECT COUNT(*)  FROM FILM
+WHERE title LIKE '%Truman%'
